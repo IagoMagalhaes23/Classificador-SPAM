@@ -11,6 +11,7 @@ O objetivo desse projeto é desenvolver um classificadir de SPAM de forma simple
 
 ## Base de dados
 A base de dados é conjunto de informações no formato .txt. É uma base de dados pública e uma pequena amostra dos dados pode ser visualizada abaixo:
+
 ![image](https://user-images.githubusercontent.com/65053026/163590817-70bb80b9-921d-4591-90dc-eb543d404005.png)
 
 ## Funcionamento
